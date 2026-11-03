@@ -1,0 +1,2 @@
+# lgs
+lgs çalışma günlüğü
